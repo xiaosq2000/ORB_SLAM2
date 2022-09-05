@@ -1,0 +1,6 @@
+[submodule "src/ORB_SLAM2"]
+	path = src/ORB_SLAM2
+	url = https://github.com/electech6/ORB_SLAM2_detailed_comments
+[submodule "src/Pangolin"]
+	path = src/Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin
